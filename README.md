@@ -89,7 +89,6 @@ go build -o loadbalancer
 
 ## 🧠 Future Enhancements
 
-- Support for weighted load balancing  
 - Implement sticky sessions  
 - Add a web dashboard for live monitoring  
 
